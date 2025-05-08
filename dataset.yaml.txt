@@ -1,0 +1,8 @@
+train: /ruta/absoluta/MercosurPlates/images/train
+val: /ruta/absoluta/MercosurPlates/images/val
+
+nc: 1
+names: ['license_plate']
+
+
+/////### Reemplazá /ruta/absoluta/ por la ruta real en tu PC.###/////
